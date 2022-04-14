@@ -1,5 +1,13 @@
 # Anipull
 
+Practice sandbox project that uses the [AniList API](https://anilist.co/api).
+
+## Techstack
+
+- Angular 13
+- Ionic 6
+- Angular Apollo GraphQL
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
